@@ -1,0 +1,56 @@
+#box1{
+    height: 300px;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+  flex-direction: column;
+   margin-left: 20px;
+    margin-top: 100px;
+}
+
+#heading{
+    margin-top: 45px ;
+    margin-left: 150px;
+    max-width: 90%;
+    display: inline;
+}
+p{
+    font-size: 20px;
+}
+
+#navbar{
+   display: flex;
+   justify-content: space-evenly;
+    height: 40px;
+    width: 100%;
+    font-size: 20px;
+    padding-top: 10px;
+
+}
+#about{
+margin-left: 400px;
+text-decoration: none;
+
+}
+#button{
+ width: 70px;   
+ min-height: 06px;
+ border: 1px solid rgb(190,190,118);
+ background:rgb(223,224,196);
+ position: relative;
+ top: 3px;
+ left: 8px;
+ text-align: center;
+}
+   
+body{
+background-color: rgb(223, 224, 196);  
+}
+#footer{
+ background-color: rgb(18, 18, 15);
+ margin-top: 120px; 
+height:150px;
+width:100%;
+padding-top: 0px;
+color: aliceblue;
+}
